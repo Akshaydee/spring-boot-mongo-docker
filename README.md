@@ -2,7 +2,7 @@
 
 Maven is java based build tool to generate executable 
 
-packages(jar, ear,war) for java based projects. which we need to learn
+packages(jar, ear,war) for java based projects. which we need to learn in depth
 
 ```bash
 mvn clean package
